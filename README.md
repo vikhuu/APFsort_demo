@@ -10,3 +10,12 @@ The project applies traditional Image Processing methods in classifying agricult
 - User interface library: Tkinter 
 
 https://youtu.be/3aFmpllKytA
+
+## MACHINE:
+<br><img src="images/machine.jpg" height="500" > 
+
+## Block diagram
+<br><img src="images/block_diagram.png" height="500" >
+
+## USER INTERFACE
+<br><img src="images/note1.png" height="500" >
